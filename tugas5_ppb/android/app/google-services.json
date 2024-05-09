@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906682915832",
+    "project_id": "crud-tutorial-f4de3",
+    "storage_bucket": "crud-tutorial-f4de3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906682915832:android:e84d79deb6f89ad31cd40d",
+        "android_client_info": {
+          "package_name": "com.example.tugas5_ppb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUIodDq_skOC9Bss9rvmCMoLb1mPdgpk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
